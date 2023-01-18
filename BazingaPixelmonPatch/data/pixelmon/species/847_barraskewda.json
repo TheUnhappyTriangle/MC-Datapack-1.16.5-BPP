@@ -158,19 +158,19 @@
                                        "ridingOffsets":  {
                                                              "standing":  {
                                                                               "x":  0.0,
-                                                                              "y":  -0.53,
-                                                                              "z":  0.0
+                                                                              "y":  -1.9,
+                                                                              "z":  0.05
                                                                           },
                                                              "moving":  {
                                                                             "x":  0.0,
-                                                                            "y":  -0.53,
-                                                                            "z":  0.0
+                                                                            "y":  -1.9,
+                                                                            "z":  0.05
                                                                         }
                                                          },
                                        "swimmingParameters":  {
                                                                   "depthRangeStart":  1,
                                                                   "depthRangeEnd":  25,
-                                                                  "swimSpeed":  26,
+                                                                  "swimSpeed":  40,
                                                                   "decayRate":  0.99,
                                                                   "refreshRate":  200,
                                                                   "chanceToStopOnBlock":  0.7,
