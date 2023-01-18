@@ -1,0 +1,1 @@
+execute as @a[gamemode=!spectator] run function bpp:no_land_surfing.mcfunction
