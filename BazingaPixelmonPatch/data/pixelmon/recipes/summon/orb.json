@@ -1,19 +1,19 @@
 {
   "type": "minecraft:crafting_shaped", 
   "pattern": [
-    "DED",
+    "EED",
     "ESE",
-    "DED"
+    "DEE"
   ],
   "key": {
     "D": {
-      "item": "minecraft:glass"
+      "item": "minecraft:glass_pane"
     },
     "E": {
-      "item": "minecraft:diamond_block"
+      "item": "minecraft:diamond"
     },
     "S": {
-      "item": "pixelmon:shiny_stone"
+      "item": "pixelmon:dawn_stone"
     }
   },
   "result": {
