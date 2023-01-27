@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped", 
+  "pattern": [
+    "DED",
+    "ESE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:glass"
+    },
+    "E": {
+      "item": "minecraft:diamond_block"
+    },
+    "S": {
+      "item": "pixelmon:shiny_stone"
+    }
+  },
+  "result": {
+    "item": "pixelmon:orb"
+  }
+}
